@@ -102,7 +102,7 @@ function VehicleBills() {
             <input
               type="text"
               style={{ width: "20vw", borderColor: "black" }}
-              defaultVaLUE={vehicleno}
+              defaultValue={vehicleno}
               className="outline-none pl-10 !bg-transparent border-b-2 uppercase"
             />
           </span>
