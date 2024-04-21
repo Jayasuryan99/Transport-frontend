@@ -331,7 +331,7 @@ form.setFieldsValue(seletedVehicle)
               setOpen(true);
             }}
           >
-            <AddOutlinedIcon className="!text-[18px] lg:!text-[22px]"/> Create
+            <AddOutlinedIcon className=" bg-[--secondary-color]!text-[18px] lg:!text-[22px]"/> Create
           </div>
           <div>
             <Button
@@ -339,7 +339,7 @@ form.setFieldsValue(seletedVehicle)
               onClick={() => {
                 exportToExcel(memo);
               }}
-              className="!text-[10px] h-[30px] lg:!text-[14px] border-none px-3 lg:px-5 bg-[--primary-color] rounded-md cursor-pointer text-white font-bold  flex items-center justify-centeryy hover:!text-white"
+              className="bg-[--secondary-color] !text-[10px] h-[30px] lg:!text-[14px] border-none px-3 lg:px-5 bg-[--primary-color] rounded-md cursor-pointer text-white font-bold  flex items-center justify-centeryy hover:!text-white"
             >
               Export Exel
             </Button>
