@@ -331,7 +331,7 @@ form.setFieldsValue(seletedVehicle)
               setOpen(true);
             }}
           >
-            <AddOutlinedIcon className=" bg-[--secondary-color]!text-[18px] lg:!text-[22px]"/> Create
+            <AddOutlinedIcon className=" bg-[--secondary-color] !text-[18px] lg:!text-[22px]"/> Create
           </div>
           <div>
             <Button
