@@ -84,7 +84,7 @@ function Driver(props) {
               <strong> Commission Agent </strong>
             </p>
             <p>   H.O :  No.4/181,Plot No. 8,1st Floor Sri Ram Tower,Thuraiyur Road,Anna Nagar,NAMAKKAL-637 002 
-                  B.O : Opp.Shivsudha Milk Diary, Adgeon Phata, Beed Road, Aurangabad (M.S)-431 010 Cell: 91525 25000,91525 26000. E-Mail:hydjaibalaji@gmail.com </p>
+                  B.O : Opp.Shivsudha Milk Diary, Adgeon Phata, Beed Road, Aurangabad (M.S)-431 010 Cell: 91525 25000, 91525 26000. E-Mail:hydjaibalaji@gmail.com </p>
           </div>
         </div>
         <div>
